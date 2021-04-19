@@ -45,8 +45,14 @@ const SectionHome = () => {
   return (
     <>
       <StyledContainer>
-        <h1 style={{ color: "white" }}>Fon massasje</h1>
-        <p style={{ color: "white", fontSize: "1rem" }}>
+        <h1 style={{ color: "rgb(241, 207, 168)" }}>Massasje og fotpleie</h1>
+        <p
+          style={{
+            color: "rgb(241, 207, 168)",
+            fontStyle: "italic",
+            fontSize: "1rem",
+          }}
+        >
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius iusto
           omnis at dignissimos odit temporibus quos itaque perferendis ab atque
           voluptatum ipsa, iste nemo amet iure eveniet commodi, beatae incidunt.

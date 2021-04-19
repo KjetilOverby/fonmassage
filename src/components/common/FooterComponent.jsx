@@ -32,13 +32,13 @@ const FooterComponent = () => {
         <StyledText>Fon massasje og fotpleie</StyledText>
         <StyledText2>Kvesetvegen 16</StyledText2>
         <StyledText2>2266 Arneberg</StyledText2>
-        <StyledText2>Tel: 94801583</StyledText2>
+        <StyledText2>mobil: 94801583</StyledText2>
       </TextContainer>
       <TextContainer>
         <StyledText>Åpningstider</StyledText>
         <StyledText2>man-fre: 11:00 - 20:00</StyledText2>
-        <StyledText2>Lørdag: 10:00 - 20:00</StyledText2>
-        <StyledText2>Søndag: stengt</StyledText2>
+        <StyledText2>lør: 10:00 - 20:00</StyledText2>
+        <StyledText2>søn: stengt</StyledText2>
       </TextContainer>
     </StyledContainer>
   );
